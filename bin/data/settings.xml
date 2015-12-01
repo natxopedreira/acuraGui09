@@ -1,0 +1,8 @@
+<properties>
+    <velocidadMax>77</velocidadMax>
+    <velocidadMin>0</velocidadMin>
+    <modo_interaccion>2</modo_interaccion>
+    <leapMax>331</leapMax>
+    <talloMax>41</talloMax>
+    <talloMin>-11</talloMin>
+</properties>
